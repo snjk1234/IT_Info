@@ -116,3 +116,4 @@ function clearInputs() {
 
 // Initial render
 renderTable();
+window.addEventListener('DOMContentLoaded', renderTable);
