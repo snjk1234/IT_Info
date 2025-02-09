@@ -114,6 +114,7 @@ function clearInputs() {
     PRINTER_VERInput.value = '';
 }
 
+
 // Initial render
 renderTable();
 window.addEventListener('DOMContentLoaded', renderTable);
